@@ -33,7 +33,6 @@ An all-in-one beauty and wellness app where users complete a short survey about 
 	•	Stripe API → for appointment payments.
 	•	Firebase / Auth0 → for authentication and profile management.
 	•	Custom REST API → for surveys, products, and bookings.
-	•	(Optional) Cosmetic API (Sephora / Makeup API) → for real product data.
 
 # 3. CityVibe — Explore, Connect & Stay Local
 
